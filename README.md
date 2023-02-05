@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, this is Jaswanth</h1>
+<h1 align="center">Hi 👋, this is Jaswanth Kumar</h1>
 <h3 align="center">I am currently pursuing Masters in Data Analytics Engineering from George Mason University and looking for full time oppurtunities as Data/Business Analyst,Machine Learning Engineer roles starting May 2023</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth333&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth333" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswanth333" alt="jaswanth333" /></a> </p>
 
 - 🔭 I’m currently working on [Course Recommendation system as a part of capstone project](https://github.com/jaswanth333/daen690_course_recommendation_system)
 
 - 🌱 I’m currently learning **about algorithms in Artificial Intelligence**
 
-- 📫 How to reach me **kjaswanth4@gmail.com**
+- 📫 You can reach me out on **kjaswanth4@gmail.com** to know more about me and for project collaborations.
 
 <h3 align="left">You can find my projects here:</h3>
 <p align="left">
@@ -23,3 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanth333&show_icons=true&locale=en&layout=compact" alt="jaswanth333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswanth333&show_icons=true&locale=en" alt="jaswanth333" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth333&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth333" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswanth333" alt="jaswanth333" /></a> </p>
