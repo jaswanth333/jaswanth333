@@ -12,7 +12,8 @@
 <a href="https://kaggle.com/jaswanth333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaswanth333" height="30" width="40" /></a>
   <a href="https://github.com/jaswanth333?tab=repositories&q=&type=&language=&sort=stargazers" target="blank"><img align="center" src="https://www.svgrepo.com/show/35001/github.svg" alt="jaswanth333" height="30" width="40" /></a>
 </p>
-<br/>
+<br />
+
 #
 <!--
 ### 🧰 Languages and Tools
