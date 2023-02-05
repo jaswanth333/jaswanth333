@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **kjaswanth4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find my projects here:</h3>
 <p align="left">
 <a href="https://kaggle.com/jaswanth333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaswanth333" height="30" width="40" /></a>
+  <a href="https://kaggle.com/jaswanth333](https://github.com/jaswanth333?tab=repositories&q=&type=&language=&sort=stargazers" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="jaswanth333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
