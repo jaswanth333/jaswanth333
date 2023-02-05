@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaswanth</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, this is Jaswanth</h1>
+<h3 align="center">I am currently pursuing Masters in Data Analytics Engineering from George Mason University and looking for full time oppurtunities as Data/Business Analyst,Machine Learning Engineer roles starting May 2023</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth333&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth333" /> </p>
 
