@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Course Recommendation system](https://github.com/jaswanth333/daen690_course_recommendation_system)
 
-- 🌱 I’m currently learning about ** Artificial Intelligence** models releavant for my project
+- 🌱 I’m currently learning about **Artificial Intelligence** models releavant for my project
 
 - 📫 You can reach me out on **kjaswanth4@gmail.com** to know more about me and for future project collaborations.
 
