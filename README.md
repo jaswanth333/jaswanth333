@@ -12,9 +12,8 @@
 <a href="https://kaggle.com/jaswanth333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaswanth333" height="30" width="40" /></a>
   <a href="https://github.com/jaswanth333?tab=repositories&q=&type=&language=&sort=stargazers" target="blank"><img align="center" src="https://www.svgrepo.com/show/35001/github.svg" alt="jaswanth333" height="30" width="40" /></a>
 </p>
-
+##
 <h3 align="left">Languages and Tools:</h3>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
@@ -29,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
 </div>
-
+##
 <h3 align="left">Profile Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jaswanth333" height="150" alt="stats graph"  />
