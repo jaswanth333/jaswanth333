@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, this is Jaswanth Kumar</h1>
 <h3 align="center">I am currently pursuing Masters in Data Analytics Engineering from George Mason University and looking for full time oppurtunities as Data/Business Analyst,Machine Learning Engineer roles starting May 2023</h3>
 
-- 🔭 I’m currently working on [Course Recommendation system](https://github.com/jaswanth333/daen690_course_recommendation_system)
-
-- 🌱 I’m currently learning about **Artificial Intelligence** models releavant for my project
-
 - 📫 You can reach me out on **kjaswanth4@gmail.com** to know more about me and for future project collaborations.
 ---
 ### Projects
