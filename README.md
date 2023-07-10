@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Jaswanth Kumar</h1>
-<h3 align="center">I am a Masters Data Analytics graduate from George Mason University and looking for full-time opportunities as Data Analyst/Data Engineer</h3>
+<h3 align="center">I am a Masters Data Analytics graduate from George Mason University and looking for full-time Data Analyst/Data Engineer roles</h3>
 
 - 📫 You can reach me at **kjaswanth4@gmail.com** to know more about me and for future project collaborations.
 ---
