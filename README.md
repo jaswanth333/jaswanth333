@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is Jaswanth Kumar</h1>
 
-<h3 align="center">I am a Data Analytics graduate with 3+ years of work experience looking for full-time Data Analyst/Data Engineer roles</h3>
+<h3 align="center">I am a Data Analytics graduate with around 4 years of work experience looking for full-time Data Analyst/Data Engineer roles</h3>
 
 <div align='center'>
   
