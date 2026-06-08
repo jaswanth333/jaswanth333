@@ -2,15 +2,17 @@
 
 <h3 align="center">I am a Senior Data Engineer with professional experience in using Big Data, cloud technologies, and programming languages</h3>
 
+<!--
 <div align='center'>
-  
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaswanth333/)](https://www.linkedin.com/in/jaswanth333/) 
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/sai.jaswanth.kumar.kunku)](https://public.tableau.com/app/profile/sai.jaswanth.kumar.kunku) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jaswanth333)](https://github.com/jaswanth333)
 ![](https://komarev.com/ghpvc/?username=jaswanth333&color=red&style=flat)
 
 </div>
-
+-->
 ---
 
 ### Projects
